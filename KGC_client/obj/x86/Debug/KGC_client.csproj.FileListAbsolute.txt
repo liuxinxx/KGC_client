@@ -1,0 +1,17 @@
+F:\C#\KGC_client\KGC_client\bin\Debug\KGC_client.exe
+F:\C#\KGC_client\KGC_client\bin\Debug\KGC_client.pdb
+F:\C#\KGC_client\KGC_client\bin\Debug\BouncyCastle.Crypto.dll
+F:\C#\KGC_client\KGC_client\bin\Debug\SkinForm.dll
+F:\C#\KGC_client\KGC_client\bin\Debug\SM2_SM3.dll
+F:\C#\KGC_client\KGC_client\bin\Debug\SkinForm.pdb
+F:\C#\KGC_client\KGC_client\bin\Debug\SM2_SM3.pdb
+F:\C#\KGC_client\KGC_client\obj\x86\Debug\KGC_client.csprojResolveAssemblyReference.cache
+F:\C#\KGC_client\KGC_client\obj\x86\Debug\KGC_client.Form1.resources
+F:\C#\KGC_client\KGC_client\obj\x86\Debug\KGC_client.Properties.Resources.resources
+F:\C#\KGC_client\KGC_client\obj\x86\Debug\KGC_client.csproj.GenerateResource.Cache
+F:\C#\KGC_client\KGC_client\obj\x86\Debug\KGC_client.exe
+F:\C#\KGC_client\KGC_client\obj\x86\Debug\KGC_client.pdb
+F:\C#\KGC_client\KGC_client\obj\x86\Debug\KGC_client.setIP.resources
+F:\C#\KGC_client\KGC_client\obj\x86\Debug\KGC_client.loding.resources
+F:\C#\KGC_client\KGC_client\obj\x86\Debug\KGC_client.clientForm.resources
+F:\C#\KGC_client\KGC_client\obj\x86\Debug\KGC_client.fistLog.resources
